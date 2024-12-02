@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35506.116 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab1Var58_Task2", "Lab1Var58_Task2.csproj", "{49AA860C-70A2-4ECA-A04F-2A1FC589CDD2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Элементы решения", "Элементы решения", "{9651B84F-9214-4065-9430-19ED18BD4D4C}"
+	ProjectSection(SolutionItems) = preProject
+		Задача_2_Сумма.pdf = Задача_2_Сумма.pdf
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49AA860C-70A2-4ECA-A04F-2A1FC589CDD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49AA860C-70A2-4ECA-A04F-2A1FC589CDD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49AA860C-70A2-4ECA-A04F-2A1FC589CDD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49AA860C-70A2-4ECA-A04F-2A1FC589CDD2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
